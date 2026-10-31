@@ -6,6 +6,8 @@ Ein lokales Studio für professionelle Romanentwicklung von **easyARTZ.de – Al
 
 ## Installation
 
+**Update von 0.7.0/0.7.1:** Bitte die aktuelle DMG einmal manuell installieren. In diesen Versionen konnte macOS die Bestätigung für „Installieren und neu starten“ stillschweigend abbrechen. Ab 0.7.2 erscheint die Bestätigung direkt in Textura. Vor dem Austausch Bücher speichern und Textura selbst beenden; die lokale Bibliothek bleibt erhalten.
+
 Der erste Installer unterstützt **Apple Silicon (M1 und neuer), macOS 13.5 oder neuer**. Die DMG aus dem neuesten Release herunterladen, öffnen und Textura.app in Programme ziehen. Die App ist noch nicht Apple-notarisiert; macOS kann deshalb eine Sicherheitsbestätigung verlangen. Weitere Plattformen folgen über die getrennte Build-Pipeline.
 
 ## Funktionen
