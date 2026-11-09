@@ -12,9 +12,6 @@ Die Screenshots zeigen die Bedienoberfläche mit einem erfundenen Demobuch und e
 
 *Die Bibliothek öffnet zuletzt bearbeitete Bücher direkt und führt mit „Dort fortsetzen“ an den gespeicherten Arbeitsstand zurück.*
 
-![Textura About-Fenster mit Version und Impressum](images/0.7.3/03-imprint.png)
-
-*Version, Impressum und Lizenzinformationen sind im About-Fenster gebündelt.*
 
 ![Textura Romanstudio in einer schmalen Ansicht](images/0.7.3/04-mobile-editor.png)
 
